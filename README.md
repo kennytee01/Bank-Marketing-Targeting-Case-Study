@@ -85,5 +85,4 @@ Every dollar figure in this project depends on two assumptions I chose deliberat
 
 **Timothy Kehinde Promise**
 Data Analyst Intern, AnalystLab Africa
-
 [Linkedin]([https://bit.ly/4qIn19W](https://www.linkedin.com/in/timothy-kehinde-promise-17810529b))
